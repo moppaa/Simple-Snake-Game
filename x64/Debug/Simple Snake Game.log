@@ -1,2 +1,3 @@
 ﻿  Simple Snake Game.cpp
+E:\Visual Studio Communiity 2022\Projects\Simple Snake Game\Simple Snake Game\Simple Snake Game.cpp(117,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   Simple Snake Game.vcxproj -> E:\Visual Studio Communiity 2022\Projects\Simple Snake Game\x64\Debug\Simple Snake Game.exe
